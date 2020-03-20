@@ -8,12 +8,12 @@ Prettier config for the LifewayIT Corinth team.
 
 - [prettier](https://github.com/prettier/prettier)
 - [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
-- You can download this dependency via GitHub with `npm install github:LifewayIT/prettier-config-corinth -D`.
+- You can download this dependency via GitHub with `npm install github:lifewayit/prettier-config-corinth -D`.
 
 2. Add a `prettier.config.js` file to the root of the repo. It will need to include the following:
 
 ```
-const prettierConfig = require('prettier-corinth');
+const prettierConfig = require('prettier-config-corinth');
 
 module.exports = prettierConfig;
 ```
