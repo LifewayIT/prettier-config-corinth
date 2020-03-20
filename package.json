@@ -1,0 +1,12 @@
+{
+  "name": "prettier-config-corinth",
+  "version": "1.0.0",
+  "description": "The prettier config for the LifewayIT Corinth team.",
+  "main": "index.json",
+  "keywords": [
+    "prettier",
+    "prettierconfig"
+  ],
+  "author": "Corinth",
+  "license": "MIT"
+}
