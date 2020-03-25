@@ -30,7 +30,7 @@ module.exports = {
 };
 ```
 
-4. Enjoy
+4. Install and enable the Prettier plugin for VSCode, which can be found [here](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ## Modify Rules
 
